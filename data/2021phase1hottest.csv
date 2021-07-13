@@ -1,0 +1,182 @@
+ID,School,Phase 1 Vacancy,Applied,Applied %
+1,Horizon,200,138,69%
+2,Temasek,160,108,68%
+3,Rosyth,230,149,65%
+4,Gongshang,170,108,64%
+5,Innova,140,88,63%
+6,Kheng Cheng,200,125,63%
+7,Chongzheng,140,87,62%
+8,Waterway,240,149,62%
+9,Pei Hwa Presbyterian,184,113,61%
+10,Punggol,150,91,61%
+11,Nanyang,350,210,60%
+12,Alexandra,160,95,59%
+13,White Sands,140,83,59%
+14,Pasir Ris,140,82,59%
+15,Springdale,240,140,58%
+16,Rulang,230,134,58%
+17,St. Hilda’s,230,133,58%
+18,Princess Elizabeth,160,92,57%
+19,Ai Tong,260,147,57%
+20,Yu Neng,140,79,56%
+21,Punggol Green,210,118,56%
+22,Holy Innocents’,230,129,56%
+23,Kong Hwa,230,129,56%
+24,Huamin,240,133,55%
+25,Woodlands,170,94,55%
+26,Telok Kurau,180,99,55%
+27,CHIJ St. Nicholas Girls’,170,93,55%
+28,Northland,200,109,55%
+29,Tao Nan,320,174,54%
+30,River Valley,170,92,54%
+31,Elias Park,150,81,54%
+32,West Spring,200,108,54%
+33,Fairfield Methodist,230,124,54%
+34,Chongfu,260,140,54%
+35,Nan Hua,200,107,54%
+36,Jing Shan,120,64,53%
+37,Casuarina,120,63,53%
+38,Henry Park,260,136,52%
+39,Woodgrove,140,73,52%
+40,Shuqun,160,83,52%
+41,Keming,170,88,52%
+42,Oasis,240,124,52%
+43,Nan Chiau,260,134,52%
+44,Jurong West,140,72,51%
+45,Radin Mas,160,82,51%
+46,Yishun,160,82,51%
+47,Frontier,170,87,51%
+48,Xinmin,170,87,51%
+49,Sembawang,150,76,51%
+50,Anderson,170,86,51%
+51,South View,230,116,50%
+52,Mee Toh,280,141,50%
+53,Edgefield,200,100,50%
+54,Fengshan,140,70,50%
+55,Lakeside,200,100,50%
+56,Pei Chun Public,260,130,50%
+57,Xishan,180,90,50%
+58,Fern Green,240,119,50%
+59,Evergreen,170,84,49%
+60,Naval Base,240,118,49%
+61,Fuhua,180,88,49%
+62,Admiralty,170,83,49%
+63,Hong Wen,170,83,49%
+64,Tanjong Katong,160,78,49%
+65,Yangzheng,140,68,49%
+66,Bukit Panjang,200,97,49%
+67,Punggol Cove,240,116,48%
+68,Sengkang Green,240,116,48%
+69,Zhangde,170,82,48%
+70,Jurong,150,72,48%
+71,Tampines,200,96,48%
+72,Riverside,170,81,48%
+73,De La Salle,200,95,48%
+74,St. Anthony’s,170,80,47%
+75,Concord,200,94,47%
+76,Red Swastika,200,94,47%
+77,Punggol View,240,112,47%
+78,Queenstown,200,93,47%
+79,Wellington,200,93,47%
+80,Chua Chu Kang,200,92,46%
+81,Rivervale,200,92,46%
+82,Methodist Girls’,170,78,46%
+83,Compassvale,200,91,46%
+84,Teck Ghee,170,77,45%
+85,Maha Bodhi,290,130,45%
+86,Dazhong,160,71,44%
+87,Hougang,160,71,44%
+88,Poi Ching,200,88,44%
+89,Anchor Green,200,87,44%
+90,Ngee Ann,200,86,43%
+91,Westwood,200,86,43%
+92,Fuchun,170,73,43%
+93,Canberra,200,85,43%
+94,Peiying,180,76,42%
+95,Qifa,240,101,42%
+96,Yumin,140,58,41%
+97,Opera Estate,150,62,41%
+98,Kuo Chuan Presbyterian,200,82,41%
+99,Catholic High,200,81,41%
+100,Greenwood,200,81,41%
+101,Singapore Chinese Girls’,152,61,40%
+102,Palm View,240,96,40%
+103,Woodlands Ring,200,80,40%
+104,Qihua,200,79,40%
+105,East Spring,170,67,39%
+106,Clementi,240,94,39%
+107,CHIJ Our Lady of Good Counsel,110,43,39%
+108,North View,200,78,39%
+109,Zhenghua,200,78,39%
+110,Greenridge,200,77,39%
+111,Unity,200,77,39%
+112,Anglo-Chinese (Junior),230,88,38%
+113,Park View,140,53,38%
+114,Geylang Methodist,230,87,38%
+115,Marsiling,170,64,38%
+116,Junyuan,200,75,38%
+117,Bukit Timah,170,63,37%
+118,Endeavour,200,74,37%
+119,Tampines North,200,74,37%
+120,West Grove,200,74,37%
+121,Beacon,200,72,36%
+122,St. Andrew’s Junior,200,72,36%
+123,Yew Tee,200,72,36%
+124,Jiemin,180,64,36%
+125,St. Margaret’s,152,53,35%
+126,Si Ling,110,38,35%
+127,Northoaks,170,58,34%
+128,North Spring,200,68,34%
+129,Fernvale,240,80,33%
+130,North Vista,230,74,32%
+131,Paya Lebar Methodist Girls’,230,73,32%
+132,Bukit View,200,63,32%
+133,Mayflower,150,47,31%
+134,Corporation,230,72,31%
+135,St. Joseph’s Institution Junior,200,62,31%
+136,Boon Lay Garden,200,61,31%
+137,Canossa Catholic,110,33,30%
+138,Cantonment,200,60,30%
+139,CHIJ (Toa Payoh),170,51,30%
+140,Haig Girls’,150,45,30%
+141,Anglo-Chinese (Primary),200,59,30%
+142,Bendemeer,200,59,30%
+143,St. Anthony’s Canossian,200,58,29%
+144,CHIJ (Katong),160,46,29%
+145,Yio Chu Kang,160,46,29%
+146,CHIJ Our Lady Queen of Peace,140,40,29%
+147,Teck Whye,200,56,28%
+148,Raffles Girls’,230,64,28%
+149,Xingnan,260,72,28%
+150,Townsville,150,41,27%
+151,West View,140,38,27%
+152,Valour,240,65,27%
+153,Changkat,170,46,27%
+154,CHIJ Our Lady of The Nativity,200,54,27%
+155,Seng Kang,230,62,27%
+156,CHIJ (Kellock),160,43,27%
+157,Farrer Park,180,48,27%
+158,Lianhua,200,51,26%
+159,St. Gabriel’s,110,28,25%
+160,Yuhua,200,50,25%
+161,Greendale,240,59,25%
+162,Ang Mo Kio,200,48,24%
+163,St. Stephen’s,200,48,24%
+164,Ahmad Ibrahim,170,40,24%
+165,Gan Eng Seng,170,40,24%
+166,Meridian,150,35,23%
+167,Bedok Green,230,53,23%
+168,Maris Stella High,230,53,23%
+169,Marymount Convent,200,44,22%
+170,Pei Tong,240,52,22%
+171,Xinghua,200,43,22%
+172,Kranji,140,30,21%
+173,Zhonghua,140,30,21%
+174,Angsana,200,38,19%
+175,Cedar,200,36,18%
+176,Damai,200,33,17%
+177,Blangah Rise,110,18,16%
+178,New Town,230,37,16%
+179,Montfort Junior,140,20,14%
+180,First Toa Payoh,170,18,11%
+181,Northshore,200,6,3%
